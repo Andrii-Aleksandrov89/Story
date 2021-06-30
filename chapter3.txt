@@ -1,1 +1,1 @@
-Chapter three git file ready!
+Chapter three git file ready! The file is locally reverted with checkout command.
